@@ -1,2 +1,2 @@
-# CleaningTasks
-Full-stack cleaning task web app for my roommates
+# Cleaning Tasks Web App
+Currently empty, will be updated soon.
